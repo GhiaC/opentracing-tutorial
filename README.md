@@ -36,3 +36,4 @@ Once the backend starts, the Jaeger UI will be accessible at http://localhost:16
   * [Java tutorial](./java)
   * [Python tutorial](./python)
   * [Node.js tutorial](./nodejs)
+  * [Scala tutorial](./scala)
