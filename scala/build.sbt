@@ -4,4 +4,6 @@ version := "0.1"
 
 scalaVersion := "2.13.0"
 
-libraryDependencies += "io.jaegertracing" % "jaeger-client" % "0.35.5"
+libraryDependencies ++= Seq(
+  "io.jaegertracing" % "jaeger-client" % "0.35.5",
+  "javax.ws.rs" % "javax.ws.rs-api" % "2.0")

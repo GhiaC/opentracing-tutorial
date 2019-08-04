@@ -1,7 +1,6 @@
-package main
+package lesson01.exercise
 
-class Main {
+object Hello {
   def main(args: Array[String]): Unit = {
-
   }
 }
